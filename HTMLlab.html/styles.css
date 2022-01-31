@@ -1,0 +1,11 @@
+* {font-family: Verdana, Geneva, Tahoma, sans-serif} 
+h1 {
+    width: 100%;
+    height: 800px;
+    background-image: url(https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fpreview.redd.it%2Ffkfbbp89qgl41.jpg%3Fauto%3Dwebp%26s%3Dfe6cb007440f9ae6527882cffab1950176bfd6b4&f=1&nofb=1);
+    background-size: cover;
+    color:aquamarine;
+    text-align: center;
+    font-style: normal;
+}
+
